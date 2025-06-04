@@ -1,6 +1,7 @@
 # Betthupferl: A multi-dialectal dataset for German dialect ASR and dialect-to-standard speech translation.
 
-This repository contains supplementary material for the paper “A multi-dialectal dataset for German dialect ASR and dialect-to-standard speech translation” (Verena Blaschke, Miriam Winkler, Constantin Förster, Gabriele Wenger-Glemser, and Barbara Plank). Accepted to Interspeech 2025.
+This repository contains supplementary material for the paper 
+> “A multi-dialectal dataset for German dialect ASR and dialect-to-standard speech translation” (Verena Blaschke, Miriam Winkler, Constantin Förster, Gabriele Wenger-Glemser, and Barbara Plank). Accepted to Interspeech 2025. Preprint: https://arxiv.org/abs/2506.02894
 
 Please cite the paper if you use any of this data/code.
 
